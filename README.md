@@ -16,6 +16,31 @@ This project is a **full-stack MERN application** that integrates with the **Edv
 > 📌 Replace the demo link with your actual video later.
 
 ---
+---
+### Screenshots :camera:
+
+---
+- **Home Page**
+---
+![Edviron](./assets//Screenshot%202025-09-18%20040142.png)
+
+
+---
+- **Transaction page**
+---
+![transaction](./assets//Screenshot%202025-09-18%20040220.png)
+---
+
+
+
+---
+- **check status page**
+
+---
+![status](./assets/Screenshot%202025-09-18%20040248.png)
+
+---
+
 
 ## 🎥 Video Demonstration
 
