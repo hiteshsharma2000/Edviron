@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+  width: 100%;
+
+}
+#root{
+ border: 5px solid red;
+}
