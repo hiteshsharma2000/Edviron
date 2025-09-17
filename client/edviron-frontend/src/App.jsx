@@ -12,6 +12,8 @@ import Dashboard from "./pages/Dashboard";
 
 
 export default function App() {
+  console.log('hi');
+  
   return (
     <div className=" w-full min-h-screen ">
       <Nav/>
