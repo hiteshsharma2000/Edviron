@@ -5,9 +5,9 @@ This project is a **full-stack MERN application** that integrates with the **Edv
 ---
 
 ## 🌐 Live URLs
-- **Frontend API**: [https://coddy-app-1.onrender.com](https://coddy-app-1.onrender.com)  
+- **Frontend API**: [https://edviron-1.onrender.com/](https://edviron-1.onrender.com/)  
  
-- **Backend API**: [https://coddy-app-dl6q.onrender.com](https://coddy-app-dl6q.onrender.com)
+- **Backend API**: [https://edviron-wfjd.onrender.com/](https://edviron-wfjd.onrender.com/)
 
 
 - **Frontend Demo Video**: [Watch Demo](https://drive.google.com/file/d/1qG-HwSf1I9A-MDdUZOMWaizKUUW5sd9g/view?usp=sharing)  
