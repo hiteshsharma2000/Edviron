@@ -22,13 +22,16 @@ This project is a **full-stack MERN application** that integrates with the **Edv
 ---
 - **Home Page**
 ---
-![Edviron](https://drive.google.com/file/d/1BL4AH-i3c6XYSUZiEgNPTMRneQeHLISd/view?usp=sharing)
+
+![Edviron](./assets//Screenshot%202025-09-18%20040142.png)
 
 
 ---
 - **Transaction page**
 ---
-![transaction](https://drive.google.com/file/d/1eZE4U72A09IYz83sztDkzF9_lNf6r-Y6/view?usp=sharing)
+
+![transaction](./assets//Screenshot%202025-09-18%20040220.png)
+
 ---
 
 
@@ -37,7 +40,9 @@ This project is a **full-stack MERN application** that integrates with the **Edv
 - **check status page**
 
 ---
-![status](https://drive.google.com/file/d/1zBkEsN4XgopttWmzwxqRUUj9mW_TSgi8/view?usp=sharing)
+
+![status](./assets/Screenshot%202025-09-18%20040248.png)
+
 
 ---
 
